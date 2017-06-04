@@ -138,16 +138,53 @@ Prototyping Areas:
 
 # 9 - Use Cases*****
 
+- Generalist learning, what you make with different chains...
+
+
 
 ------
 
 # 10 - Advanced Concepts***
   - Private groups altered, re-released, and deployed the source code (Ch11)
 
+  FULL ETHEREUM ROADMAP:
+    - Frontier - 2015
+
+    - Homestead - 2016
+
+    - Metropolis - 2017
+      - Mist will look like a cross between ChromeOS and iOS app store
+
+    - Serenity - 2018
+      - proof of stake algorithm
+      - confidence a breakthrough is near
+
+  #Future:
+    - Ronald coase - economist - "firms exist to avoid the 'transaction costs' of going to the market every day lookin for workers.."
+    - firms create long-term employement agreements that increase efficiency
+    - processes that increase efficiency among a group of a few dozen workers can become a hindrance at scale...making large firms slow and uncompetitive
+    - Equilibrium point: minimal bureaucracy, maximum efficients....
+
+
+    - Temporary workers enable companies to spin up teams quickly when demand arises, spin them back down without needing to lay off FTE.
+
+    "When comp packages can easily be composed of a series of if-then statements in a smart contract, the distinction between a salary and a bonus become blurred. The size, age, or location of a company may no longer carry cultural connotations about its trustworthiness or importance."
+    - "THe boundaries of the modern company are becoming more permeable"
+
+A paradigm shift may be in store: first, a period of flux as individuals and business come to grips with their freedom to engage in business agreements --- 
+
+deals inked on pen and paper, but smaller deals handled by Eth machines running on boilerplate policies.
+
+- No notaries.
+- No HR sign-off.
+- How many years out is this?
+
+How many business agreements might be made more fair and enforaceable?
+
 ------
 
 # 11 - Backmatter*?
-
+------XXX
 ------
 
 ------
@@ -166,3 +203,5 @@ https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d
 
 
 - Address typo: Main PAge of ch8.
+
+
