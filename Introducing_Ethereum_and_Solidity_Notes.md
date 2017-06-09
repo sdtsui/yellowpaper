@@ -1,10 +1,10 @@
 Introducing_Ethereum_and_Solidity_Notes.md
 
+### Note: Continuation of notes in this file have been moved to sdtsui/reading-sprints
 ----
 # 1
 
 https://puu.sh/waag0/79e2db5de2.png
-
 
 Symmetric Encryption: both parties must have the same key.
 
@@ -13,7 +13,6 @@ Asymmetic cryptography:
   - each person has a PAIR of different, but mathematically related keys
     - Public key cryptography: wartime communications
     - 'computational complexity involved in encrypting the data makes it useful only for small data objects, like the alphanumeic string that becomes your private key'
-
 
 Symmetric Encryption:
   - Bob and Alice has the same encryption key.
@@ -57,11 +56,8 @@ Digital Signature:
 Pretty important to mining.
 --------
 
-
-
 # 2 - The Mist Browser
 mist, applications
-
 
 ------
 
@@ -69,7 +65,6 @@ mist, applications
 how the EVM works
 
 ------
-
 
 # 4 - Solidity Programming
 how to build things
@@ -82,22 +77,17 @@ how to build things
 
 ------
 
-
 # 5 - Smart Contracts and Tokens
 - Smart contracts are reusable classes...bid system, section bid system, polling system...
   - Secure IM system...
   ???
 
-
 ------
-
 
 # 6 - Mining Ether
   - understand how mining works, so you can point your rigs at new cryptocurrencies in the future
 
-
 ------
-
 
 # 7 - Cryptoeconomics Survey
 - hashing vs encryption
@@ -186,22 +176,10 @@ How many business agreements might be made more fair and enforaceable?
 # 11 - Backmatter*?
 ------XXX
 ------
-
-------
-------
-------
-
-
-
 # (ROLLING) TODOs:
   - eth.guide
   - Review etherium roadmap.
 
-
 VB - Proof of stake design philosophy:
 https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.7n3x85gvs
-
-
 - Address typo: Main PAge of ch8.
-
-
